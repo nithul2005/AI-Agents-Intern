@@ -1,0 +1,22 @@
+What Is Machine Learning? 
+Machine learning (ML) is a branch of artificial intelligence that enables computers to 
+learn from data—without being explicitly programmed. Instead of following rigid 
+instructions, ML systems analyze patterns and improve their performance with 
+experience. 
+Imagine teaching a child to recognize birds. You show examples—photos, sounds, 
+movements—and eventually, they learn to identify birds without needing a checklist. ML 
+works similarly: it uses data to train models that make predictions or decisions. 
+How It Works 
+The process typically involves: 
+1. Data Collection: Huge volumes of relevant data are gathered. 
+2. Training a Model: This data is used to teach the algorithm what patterns to 
+recognize. 
+3. Evaluation: The model is tested with new data to check its accuracy. 
+4. Improvement: Based on the results, the model is refined. 
+Types of Machine Learning 
+• Supervised Learning: The model learns from labeled data (e.g., emails marked 
+“spam” or “not spam”). 
+• Unsupervised Learning: Finds hidden patterns in unlabeled data (e.g., grouping 
+customers by behavior). 
+• Reinforcement Learning: The model learns by trial and error, receiving 
+feedback—like training a robot to walk.
